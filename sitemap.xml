@@ -67,6 +67,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.ae/food-trends/5k-campaign-taqado.html</loc>
+    <lastmod>2018-11-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.ae/food-trends/delicious-green-dishes-to-delight-in.html</loc>
     <lastmod>2018-11-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2449,6 +2455,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.ae/promotions/sushiart-paris-uae-comp.html</loc>
+    <lastmod>2018-11-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.ae/promotions/ramadan-lunch-offers.html</loc>
     <lastmod>2018-11-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2558,6 +2570,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.ae/tag/veggies.html</loc>
+    <lastmod>2018-11-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ae/tag/sushi.html</loc>
     <lastmod>2018-11-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2894,12 +2912,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.ae/tag/gluten-free.html</loc>
-    <lastmod>2018-11-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.ae/tag/sushi.html</loc>
     <lastmod>2018-11-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6577,6 +6589,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.ae/tag/sushi/page/2.html</loc>
+    <lastmod>2018-11-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ae/tag/sushi/page/3.html</loc>
+    <lastmod>2018-11-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.ae/tag/tasty/page/2.html</loc>
     <lastmod>2018-11-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -6812,18 +6836,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.ae/tag/breakfast/page/3.html</loc>
-    <lastmod>2018-11-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.ae/tag/sushi/page/2.html</loc>
-    <lastmod>2018-11-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.ae/tag/sushi/page/3.html</loc>
     <lastmod>2018-11-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
