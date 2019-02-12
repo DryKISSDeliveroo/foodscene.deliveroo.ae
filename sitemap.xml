@@ -2581,6 +2581,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.ae/promotions/terms-conditions-five-g-s-for-five-guys-prize-draw-22-28-feb-2019.html</loc>
+    <lastmod>2019-02-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.ae/promotions/terms-conditions-grab-a-grand-is-back-22nd-28th-october-2018.html</loc>
     <lastmod>2019-02-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2618,6 +2624,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.ae/contact/</loc>
+    <lastmod>2019-02-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ae/tag/terms.html</loc>
     <lastmod>2019-02-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6481,6 +6493,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.ae/deliveroo.html</loc>
+    <lastmod>2019-02-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.ae/marni-immelman.html</loc>
     <lastmod>2019-02-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -6578,12 +6596,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.ae/mairi-johnstone.html</loc>
-    <lastmod>2019-02-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.ae/deliveroo.html</loc>
     <lastmod>2019-02-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
