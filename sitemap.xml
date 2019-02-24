@@ -571,6 +571,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.ae/restaurant-profiles/no-shark-fin-pledge.html</loc>
+    <lastmod>2019-02-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.ae/restaurant-profiles/veggie-dishes-to-delight-in.html</loc>
     <lastmod>2019-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2660,6 +2666,18 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.ae/tag/sales.html</loc>
+    <lastmod>2019-02-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ae/tag/wwf.html</loc>
+    <lastmod>2019-02-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ae/tag/sharks.html</loc>
     <lastmod>2019-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
