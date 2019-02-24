@@ -433,6 +433,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.ae/restaurant-profiles/product-update-to-help-your-business.html</loc>
+    <lastmod>2019-02-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.ae/restaurant-profiles/tortilla.html</loc>
     <lastmod>2019-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2678,6 +2684,18 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.ae/tag/sharks.html</loc>
+    <lastmod>2019-02-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ae/tag/product.html</loc>
+    <lastmod>2019-02-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ae/tag/update.html</loc>
     <lastmod>2019-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -7514,6 +7532,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.ae/restaurant-profiles/page/5.html</loc>
+    <lastmod>2019-02-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ae/restaurant-profiles/page/6.html</loc>
     <lastmod>2019-02-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
