@@ -961,12 +961,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.ae/cuisine-inspiration/tasty-pancakes-from-around-the-globe.html</loc>
-    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.ae/cuisine-inspiration/best-vibrant-vegan-poke-bowl-in-dubai.html</loc>
     <lastmod>2019-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2677,36 +2671,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.ae/tag/dubai.html</loc>
-    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.ae/tag/uae.html</loc>
-    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.ae/tag/brekkie.html</loc>
-    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.ae/tag/pancakes.html</loc>
-    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.ae/tag/treats.html</loc>
-    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.ae/tag/mexican.html</loc>
     <lastmod>2019-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2744,6 +2708,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.ae/tag/deliveroo.html</loc>
+    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ae/tag/uae.html</loc>
     <lastmod>2019-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2792,6 +2762,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.ae/tag/customers.html</loc>
+    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ae/tag/dubai.html</loc>
     <lastmod>2019-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -3092,6 +3068,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.ae/tag/summer.html</loc>
+    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ae/tag/treats.html</loc>
     <lastmod>2019-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -3926,6 +3908,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.ae/tag/breakfasts.html</loc>
+    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ae/tag/pancakes.html</loc>
     <lastmod>2019-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6583,12 +6571,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.ae/cuisine-inspiration.html</loc>
-    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.ae/promotions.html</loc>
     <lastmod>2019-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -6596,6 +6578,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.ae/restaurant-profiles.html</loc>
+    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ae/cuisine-inspiration.html</loc>
     <lastmod>2019-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6733,6 +6721,48 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.ae/tag/mexican/page/2.html</loc>
+    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ae/tag/uae/page/2.html</loc>
+    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ae/tag/uae/page/3.html</loc>
+    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ae/tag/uae/page/4.html</loc>
+    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ae/tag/uae/page/5.html</loc>
+    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ae/tag/uae/page/6.html</loc>
+    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ae/tag/uae/page/7.html</loc>
+    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.ae/tag/dubai/page/2.html</loc>
     <lastmod>2019-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -6848,48 +6878,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.ae/tag/dubai/page/21.html</loc>
-    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.ae/tag/uae/page/2.html</loc>
-    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.ae/tag/uae/page/3.html</loc>
-    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.ae/tag/uae/page/4.html</loc>
-    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.ae/tag/uae/page/5.html</loc>
-    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.ae/tag/uae/page/6.html</loc>
-    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.ae/tag/uae/page/7.html</loc>
-    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.ae/tag/mexican/page/2.html</loc>
     <lastmod>2019-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -7549,6 +7537,42 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.ae/promotions/page/2.html</loc>
+    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ae/restaurant-profiles/page/2.html</loc>
+    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ae/restaurant-profiles/page/3.html</loc>
+    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ae/restaurant-profiles/page/4.html</loc>
+    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ae/restaurant-profiles/page/5.html</loc>
+    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ae/restaurant-profiles/page/6.html</loc>
+    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.ae/cuisine-inspiration/page/2.html</loc>
     <lastmod>2019-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -7730,42 +7754,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.ae/cuisine-inspiration/page/32.html</loc>
-    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.ae/promotions/page/2.html</loc>
-    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.ae/restaurant-profiles/page/2.html</loc>
-    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.ae/restaurant-profiles/page/3.html</loc>
-    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.ae/restaurant-profiles/page/4.html</loc>
-    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.ae/restaurant-profiles/page/5.html</loc>
-    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.ae/restaurant-profiles/page/6.html</loc>
     <lastmod>2019-03-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
