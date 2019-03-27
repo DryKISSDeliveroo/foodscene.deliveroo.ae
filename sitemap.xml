@@ -385,6 +385,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.ae/restaurant-profiles/top-pick-items.html</loc>
+    <lastmod>2019-03-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.ae/restaurant-profiles/fantastic-organic-dishes-to-treat-your-taste-buds.html</loc>
     <lastmod>2019-03-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2731,6 +2737,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.ae/tag/deliveries.html</loc>
+    <lastmod>2019-03-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ae/tag/orders.html</loc>
+    <lastmod>2019-03-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.ae/tag/editions.html</loc>
     <lastmod>2019-03-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2750,12 +2768,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.ae/tag/prizes.html</loc>
-    <lastmod>2019-03-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.ae/tag/deliveries.html</loc>
     <lastmod>2019-03-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6937,6 +6949,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.ae/tag/uae/page/8.html</loc>
+    <lastmod>2019-03-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.ae/tag/mexican/page/2.html</loc>
     <lastmod>2019-03-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -7886,6 +7904,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.ae/marni-immelman/page/7.html</loc>
+    <lastmod>2019-03-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ae/marni-immelman/page/8.html</loc>
     <lastmod>2019-03-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
