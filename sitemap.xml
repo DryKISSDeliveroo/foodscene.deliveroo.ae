@@ -2365,6 +2365,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.ae/restaurant-profiles/no-shark-fin-pledge.html</loc>
+    <lastmod>2019-05-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.ae/restaurant-profiles/chicken-dishes-to-delight-in.html</loc>
     <lastmod>2019-05-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2696,12 +2702,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.ae/promotions/terms-conditions-grab-a-grand-is-back-22nd-28th-october-2018.html</loc>
-    <lastmod>2019-05-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.ae/restaurant-profiles/no-shark-fin-pledge.html</loc>
     <lastmod>2019-05-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
