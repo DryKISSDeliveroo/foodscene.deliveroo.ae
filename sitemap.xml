@@ -2599,12 +2599,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.ae/promotions/editions-restaurants-apple-giveaway.html</loc>
-    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.ae/promotions/five-guys-five-grand-uae-comp.html</loc>
     <lastmod>2019-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2779,30 +2773,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.ae/tag/editions.html</loc>
-    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.ae/tag/apple.html</loc>
-    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.ae/tag/giveaway.html</loc>
-    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.ae/tag/prizes.html</loc>
-    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.ae/tag/deliveroo.html</loc>
     <lastmod>2019-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2840,6 +2810,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.ae/tag/dubai.html</loc>
+    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ae/tag/apple.html</loc>
     <lastmod>2019-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2924,6 +2900,24 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.ae/tag/service.html</loc>
+    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ae/tag/editions.html</loc>
+    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ae/tag/giveaway.html</loc>
+    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ae/tag/prizes.html</loc>
     <lastmod>2019-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -8054,12 +8048,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.ae/marni-immelman/page/8.html</loc>
-    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.ae/marni-immelman/page/9.html</loc>
     <lastmod>2019-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
