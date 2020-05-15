@@ -6865,13 +6865,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.ae/terms.html</loc>
+    <loc>https://foodscene.deliveroo.ae/promotions.html</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.ae/promotions.html</loc>
+    <loc>https://foodscene.deliveroo.ae/terms.html</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6890,6 +6890,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.ae/food-trends.html</loc>
+    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ae/marni-immelman-georgie-brown.html</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
