@@ -19,12 +19,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.ae/terms/14-days-free-delivery.html</loc>
-    <lastmod>2020-05-29T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.ae/terms/paris-sushiart-november-2018.html</loc>
     <lastmod>2020-05-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2845,31 +2839,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.ae/tag/dubai.html</loc>
-    <lastmod>2020-05-29T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.ae/tag/abu-dhabi.html</loc>
-    <lastmod>2020-05-29T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.ae/tag/sharjah.html</loc>
+    <loc>https://foodscene.deliveroo.ae/tag/deliveroo.html</loc>
     <lastmod>2020-05-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://foodscene.deliveroo.ae/tag/uae.html</loc>
-    <lastmod>2020-05-29T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.ae/tag/deliveroo.html</loc>
     <lastmod>2020-05-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2906,6 +2882,18 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.ae/tag/riders.html</loc>
+    <lastmod>2020-05-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ae/tag/dubai.html</loc>
+    <lastmod>2020-05-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ae/tag/abu-dhabi.html</loc>
     <lastmod>2020-05-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6355,6 +6343,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.ae/tag/sharjah.html</loc>
+    <lastmod>2020-05-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.ae/tag/ras-al-khaimah.html</loc>
     <lastmod>2020-05-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -6895,12 +6889,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.ae/marni-immelman-georgie-brown.html</loc>
-    <lastmod>2020-05-29T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.ae/deliveroo.html</loc>
     <lastmod>2020-05-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -7033,6 +7021,66 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.ae/tag/deliveroo/page/2.html</loc>
+    <lastmod>2020-05-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ae/tag/uae/page/2.html</loc>
+    <lastmod>2020-05-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ae/tag/uae/page/3.html</loc>
+    <lastmod>2020-05-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ae/tag/uae/page/4.html</loc>
+    <lastmod>2020-05-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ae/tag/uae/page/5.html</loc>
+    <lastmod>2020-05-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ae/tag/uae/page/6.html</loc>
+    <lastmod>2020-05-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ae/tag/uae/page/7.html</loc>
+    <lastmod>2020-05-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ae/tag/uae/page/8.html</loc>
+    <lastmod>2020-05-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ae/tag/uae/page/9.html</loc>
+    <lastmod>2020-05-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ae/tag/desserts/page/2.html</loc>
+    <lastmod>2020-05-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.ae/tag/dubai/page/2.html</loc>
     <lastmod>2020-05-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -7160,66 +7208,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.ae/tag/abu-dhabi/page/2.html</loc>
-    <lastmod>2020-05-29T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.ae/tag/uae/page/2.html</loc>
-    <lastmod>2020-05-29T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.ae/tag/uae/page/3.html</loc>
-    <lastmod>2020-05-29T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.ae/tag/uae/page/4.html</loc>
-    <lastmod>2020-05-29T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.ae/tag/uae/page/5.html</loc>
-    <lastmod>2020-05-29T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.ae/tag/uae/page/6.html</loc>
-    <lastmod>2020-05-29T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.ae/tag/uae/page/7.html</loc>
-    <lastmod>2020-05-29T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.ae/tag/uae/page/8.html</loc>
-    <lastmod>2020-05-29T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.ae/tag/uae/page/9.html</loc>
-    <lastmod>2020-05-29T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.ae/tag/deliveroo/page/2.html</loc>
-    <lastmod>2020-05-29T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.ae/tag/desserts/page/2.html</loc>
     <lastmod>2020-05-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
