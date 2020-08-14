@@ -2659,6 +2659,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.ae/promotions/14-days-free-delivery.html</loc>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.ae/promotions/five-guys-five-grand-uae-comp.html</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2779,6 +2785,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.ae/promotions/14-days-free-delivery-minimum-order-value-aed-30.html</loc>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.ae/promotions/editions-apple-giveaway.html</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2863,18 +2875,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.ae/tag/dfb.html</loc>
-    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.ae/tag/promotions.html</loc>
-    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.ae/tag/dubai.html</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2894,6 +2894,18 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.ae/tag/uae.html</loc>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ae/tag/dfb.html</loc>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ae/tag/promotions.html</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6925,6 +6937,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.ae/georgie-brown.html</loc>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.ae/sam-blackett.html</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -7207,6 +7225,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.ae/tag/abu-dhabi/page/3.html</loc>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.ae/tag/uae/page/2.html</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -7250,6 +7274,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.ae/tag/uae/page/9.html</loc>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ae/tag/uae/page/10.html</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -7664,6 +7694,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.ae/tag/dish-of-the-day/page/2.html</loc>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ae/archive/2020/page/2.html</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
