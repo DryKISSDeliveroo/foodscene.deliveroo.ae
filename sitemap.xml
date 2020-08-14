@@ -25,6 +25,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.ae/terms/14-days-free-delivery.html</loc>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.ae/terms/paris-sushiart-november-2018.html</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -62,6 +68,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.ae/terms/free-delivery-14-days.html</loc>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ae/terms/14-days-free-delivery-minimum-order-value-aed-30.html</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -7976,6 +7988,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.ae/promotions/page/4.html</loc>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ae/terms/page/2.html</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
