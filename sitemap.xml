@@ -2791,6 +2791,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.ae/promotions/lebanon-crisis-relief.html</loc>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.ae/promotions/editions-grab-a-grand-uae-comp.html</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2911,6 +2917,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.ae/tag/terms.html</loc>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.ae/tag/dfb.html</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2978,12 +2990,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.ae/tag/sole.html</loc>
-    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.ae/tag/terms.html</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6950,6 +6956,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.ae/georgie-brown.html</loc>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.ae/george-schempers.html</loc>
     <lastmod>2020-08-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
